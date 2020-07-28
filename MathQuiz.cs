@@ -57,7 +57,7 @@ namespace mathquiz
                 {
                     Console.WriteLine("wrong answer");
                     count--;
-                    wa--;
+                    wa++;
 
                 }
 
